@@ -1,0 +1,25 @@
+<begin s \?R>
+8m3vN rz
+<end s \?R>
+<begin person data>
+Name:Rurick
+Weight:75
+Age:18
+<end person data>
+<begin   nNO>
+8fa=CK^Uc2
+<end   nNO>
+@dAw_C <S
+ qB5M
+VuP  M  ]QJg{ @
+<begin step data>
+2001-01-01,12776
+2001-01-02,15128
+<end step data>
+<begin Zmmi>
+5pf]z r>9w
+<end Zmmi>
+@1]6
+ ufQEN
+8iZ\k_A>6j Hqcgn674
+<?e0Yx>c

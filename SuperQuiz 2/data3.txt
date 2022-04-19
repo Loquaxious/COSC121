@@ -1,0 +1,27 @@
+<begin ?kfZ >
+<^Afw ZI s
+<end ?kfZ >
+<begin person data>
+Name:Leia
+Weight:45
+Age:70
+<end person data>
+<begin <7i0@z>
+ 4QLPXm36V
+<end <7i0@z>
+e@2w\8nL9vTdlHxW96Z]
+<begin step data>
+2008-01-01,5893
+2008-01-02,13742
+2008-01-03,5369
+2008-01-04,11026
+2008-01-05,2033
+2008-01-06,300
+2008-01-07,8696
+2008-01-08,17599
+2008-01-09,26992
+2008-01-10,12745
+<end step data>
+<begin ksXfyl>
+< Tau2ZFkHO 4 ]
+<end ksXfyl>

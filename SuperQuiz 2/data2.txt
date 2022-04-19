@@ -1,0 +1,25 @@
+<begin _M >7>
+iX;nsfj[hc Tt_O 
+<end _M >7>
+<begin person data>
+Name:Russ
+Weight:101
+Age:26
+<end person data>
+<begin MHDto>
+ <\c50h]?SzT07 
+<end MHDto>
+X@:sw5g{cE 
+<begin step data>
+2006-01-01,1086
+2006-01-02,20611
+2006-01-03,6655
+2006-01-04,1441
+2006-01-05,14766
+<end step data>
+<begin j:nb >
+qw3F Y
+<end j:nb >
+<F6V U9RnU 7Zp F  ONR
+y7cK
+@xZ A^
